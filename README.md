@@ -3,4 +3,4 @@
 
  Repositório criado no curso Git/GitHub!
  
- Esta linha eu adicioni diretamente no site, muito interessante!
+ Esta linha eu adicionei diretamente no site, muito interessante!
